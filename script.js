@@ -45,8 +45,6 @@ function playAudio(){
     }
 }
 
-
-
 function playmusic(){
     song.play()
     document.getElementById("songName").innerHTML=songList[index].name

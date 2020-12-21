@@ -10,7 +10,7 @@ let songList = [{
 },
 {
     name: "Quite Time",
-    img: "songimg/QuiteTime.jpg",
+    img: "songimg/QuiteTIme.jpg",
     path: "audio/QuiteTime.mp3"
 },{
     name: "Nature",

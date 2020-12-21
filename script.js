@@ -28,7 +28,7 @@ let isplaying = false
 
 function loadSongs(index){
     song.src=songList[index].path
-    songimg1.src=songList[index].img
+   
  
     song.load()
 }
